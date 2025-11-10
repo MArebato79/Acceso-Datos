@@ -1,0 +1,30 @@
+<ArrayList>
+  <item>
+    <id>1</id>
+    <nombre>Portátil X1</nombre>
+    <descripcion>Portátil 15" con 16GB RAM</descripcion>
+    <precioRecomendado>999.99</precioRecomendado>
+    <stock>10</stock>
+  </item>
+  <item>
+    <id>2</id>
+    <nombre>Ratón Óptico</nombre>
+    <descripcion>Ratón inalámbrico</descripcion>
+    <precioRecomendado>25.5</precioRecomendado>
+    <stock>50</stock>
+  </item>
+  <item>
+    <id>3</id>
+    <nombre>Teclado Mecánico</nombre>
+    <descripcion>Teclado retroiluminado</descripcion>
+    <precioRecomendado>79.99</precioRecomendado>
+    <stock>20</stock>
+  </item>
+  <item>
+    <id>4</id>
+    <nombre>Monitor 24"</nombre>
+    <descripcion>Full HD IPS</descripcion>
+    <precioRecomendado>149.0</precioRecomendado>
+    <stock>15</stock>
+  </item>
+</ArrayList>

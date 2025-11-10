@@ -1,0 +1,25 @@
+[ {
+  "id" : 1,
+  "dni" : "12345678A",
+  "nombre" : "Carlos ",
+  "apellido" : "Cepeda Lopez",
+  "telefonoContacto" : "600123456",
+  "direccionHabitual" : "Calle Sol 12, Madrid",
+  "direccionEnvio" : "Calle Sol 12, Madrid"
+}, {
+  "id" : 2,
+  "dni" : "87654321B",
+  "nombre" : "Lucía ",
+  "apellido" : "Becerra martin",
+  "telefonoContacto" : "600987654",
+  "direccionHabitual" : "Av. Luna 45, Barcelona",
+  "direccionEnvio" : "Av. Luna 45, Barcelona"
+}, {
+  "id" : 3,
+  "dni" : "11223344C",
+  "nombre" : "Ana ",
+  "apellido" : "Arabeda",
+  "telefonoContacto" : "600112233",
+  "direccionHabitual" : "Calle Norte 8, Valencia",
+  "direccionEnvio" : "Calle Norte 20, Valencia"
+} ]

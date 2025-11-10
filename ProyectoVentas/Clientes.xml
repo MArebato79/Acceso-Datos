@@ -1,0 +1,29 @@
+<ArrayList>
+  <item>
+    <id>1</id>
+    <dni>12345678A</dni>
+    <nombre>Carlos </nombre>
+    <apellido>Cepeda Lopez</apellido>
+    <telefonoContacto>600123456</telefonoContacto>
+    <direccionHabitual>Calle Sol 12, Madrid</direccionHabitual>
+    <direccionEnvio>Calle Sol 12, Madrid</direccionEnvio>
+  </item>
+  <item>
+    <id>2</id>
+    <dni>87654321B</dni>
+    <nombre>Lucía </nombre>
+    <apellido>Becerra martin</apellido>
+    <telefonoContacto>600987654</telefonoContacto>
+    <direccionHabitual>Av. Luna 45, Barcelona</direccionHabitual>
+    <direccionEnvio>Av. Luna 45, Barcelona</direccionEnvio>
+  </item>
+  <item>
+    <id>3</id>
+    <dni>11223344C</dni>
+    <nombre>Ana </nombre>
+    <apellido>Arabeda</apellido>
+    <telefonoContacto>600112233</telefonoContacto>
+    <direccionHabitual>Calle Norte 8, Valencia</direccionHabitual>
+    <direccionEnvio>Calle Norte 20, Valencia</direccionEnvio>
+  </item>
+</ArrayList>

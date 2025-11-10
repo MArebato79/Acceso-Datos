@@ -1,0 +1,25 @@
+[ {
+  "id" : 1,
+  "nombre" : "Portátil X1",
+  "descripcion" : "Portátil 15\" con 16GB RAM",
+  "precioRecomendado" : 999.99,
+  "stock" : 10
+}, {
+  "id" : 2,
+  "nombre" : "Ratón Óptico",
+  "descripcion" : "Ratón inalámbrico",
+  "precioRecomendado" : 25.5,
+  "stock" : 50
+}, {
+  "id" : 3,
+  "nombre" : "Teclado Mecánico",
+  "descripcion" : "Teclado retroiluminado",
+  "precioRecomendado" : 79.99,
+  "stock" : 20
+}, {
+  "id" : 4,
+  "nombre" : "Monitor 24\"",
+  "descripcion" : "Full HD IPS",
+  "precioRecomendado" : 149.0,
+  "stock" : 15
+} ]
