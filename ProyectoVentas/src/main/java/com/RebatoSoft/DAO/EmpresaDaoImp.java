@@ -14,7 +14,7 @@ public class EmpresaDaoImp implements IEmpresaDAO {
     @Override
     public ArrayList<Empresa> cogerEmpresasAll() {
         ArrayList<Empresa> empresas = new ArrayList<>();
-        try(Connection connection = Conexion.getConexion(); PreparedStatement st=connection.prepareStatement("select * from Empresas")){
+        try(Connection connection = Conexion.getConexion(); PreparedStatement st=connection.prepareStatement("select * from Empresa")){
             try(ResultSet rs=st.executeQuery()){
                 while(rs.next()){
                     Empresa empresa = mapearEmpresa(rs);
